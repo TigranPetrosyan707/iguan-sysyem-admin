@@ -4,9 +4,6 @@
     "name": "admin",
     "email": "admin@gmail.com",
     "password": "$2b$10$xALsS1HoqlMqaITj7WTAru.oNYN/KiM0aTewrMvPJtTyDkNumU6T6",
-    "isAdmin": true,
-    "Header": "",
-    "Main": "",
-    "Footer": ""
+    "isAdmin": true
   }
 ]
